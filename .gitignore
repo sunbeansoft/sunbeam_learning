@@ -3,3 +3,4 @@
 *DS_Store*
 *.cache
 logs/
+.ipynb_checkpoints/*
